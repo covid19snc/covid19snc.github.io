@@ -2599,11 +2599,14 @@ input, select, textarea {
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			/*height: 100%;*/
+			width: auto;
 		}
 
 			.image.left img, .image.right img {
-				width: 100%;
+				/*width: 100%;*/
+				/*height: 100%;*/
+				width: auto;
 			}
 
 		.image.left {
@@ -2983,7 +2986,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			header br {
-				display: none;
+				display: block;
 			}
 
 		}
