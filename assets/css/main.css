@@ -2996,6 +2996,7 @@ input, select, textarea {
 
 			header.major {
 				margin: 0 0 2rem 0;
+				font-size: 1rem;
 			}
 
 		}
