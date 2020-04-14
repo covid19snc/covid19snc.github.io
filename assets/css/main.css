@@ -2041,6 +2041,7 @@ input, select, textarea {
 		border: solid 2px;
 		margin-bottom: 2rem;
 		padding: 1.5rem;
+		background-color: white;
 	}
 
 		.box > :last-child,
