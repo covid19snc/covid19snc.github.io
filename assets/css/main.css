@@ -1,5 +1,6 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900");
+/*@import url("https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900");*/
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
 
 /*
 	Massively by HTML5 UP
@@ -185,7 +186,7 @@ input, select, textarea {
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
-		text-transform: uppercase;
+		/*text-transform: uppercase;*/
 		margin: 0 0 1rem 0;
 	}
 
@@ -3896,7 +3897,7 @@ input, select, textarea {
 			list-style: none;
 			margin-bottom: 0;
 			padding-left: 0;
-			text-transform: uppercase;
+			/*text-transform: uppercase;*/
 		}
 
 			#nav ul.links li {
