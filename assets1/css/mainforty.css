@@ -1792,7 +1792,7 @@ input, select, textarea {
 			}
 
 		header.major > p {
-			font-size: 0.7em;
+			font-size: 0.9em;
 			font-weight: 600;
 			letter-spacing: 0.25em;
 			margin-bottom: 0;
@@ -1810,7 +1810,7 @@ input, select, textarea {
 	@media screen and (max-width: 736px) {
 
 		header.major > p br {
-			display: none;
+			display: block;
 		}
 
 	}
@@ -3577,7 +3577,7 @@ input, select, textarea {
 			}
 
 				#banner > .inner .content p br {
-					display: none;
+					display: block;
 				}
 
 				#banner.major {
@@ -3747,7 +3747,7 @@ input, select, textarea {
 		-webkit-transition: -webkit-filter 0.35s ease, -webkit-filter 0.35s ease, opacity 0.375s ease-out;
 		-ms-transition: -ms-filter 0.35s ease, -webkit-filter 0.35s ease, opacity 0.375s ease-out;
 		transition: filter 0.35s ease, -webkit-filter 0.35s ease, opacity 0.375s ease-out;
-		padding-top: 3.25em;
+		padding-top: 0em;
 	}
 
 		#wrapper.is-transitioning {
