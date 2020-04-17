@@ -2559,7 +2559,7 @@ input, select, textarea {
   max-width: 400px;
   height: 300px;
   overflow: auto;  /* EDIT TO hidden FOR NO SCROLLBAR */
-  border: #999999 10px solid;
+  border: #000000 1px solid;
   margin: 0px;
   padding: 0px;
   }
