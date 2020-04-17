@@ -2553,6 +2553,17 @@ input, select, textarea {
 		color: #909498 !important;
 	}
 
+.frame-area {
+  display: block;
+  width: 100%;  /* RESPONSIVE WIDTH */
+  max-width: 400px;
+  height: 300px;
+  overflow: hidden;  /* EDIT TO hidden FOR NO SCROLLBAR */
+  border: #999999 10px solid;
+  margin: 0px;
+  padding: 0px;
+  }
+
 /* Icon */
 
 	.icon {
