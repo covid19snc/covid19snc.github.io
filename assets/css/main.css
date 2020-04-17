@@ -2558,7 +2558,7 @@ input, select, textarea {
   width: 100%;  /* RESPONSIVE WIDTH */
   max-width: 400px;
   height: 300px;
-  overflow: hidden;  /* EDIT TO hidden FOR NO SCROLLBAR */
+  overflow: auto;  /* EDIT TO hidden FOR NO SCROLLBAR */
   border: #999999 10px solid;
   margin: 0px;
   padding: 0px;
