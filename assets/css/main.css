@@ -2638,7 +2638,8 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
-			margin: 2.5rem 0;
+			border: #000000 1px solid; 
+			margin: 0.5rem 0;
 			width: 100%;
 		}
 
@@ -3998,7 +3999,7 @@ input, select, textarea {
 			}
 
 			#main > .post header.major > h1, #main > .post header.major h2 {
-				font-size: 4rem;
+				font-size: 3rem;
 				line-height: 1.1;
 				margin: 0 0 2rem 0;
 			}
@@ -4010,7 +4011,7 @@ input, select, textarea {
 			@media screen and (max-width: 1280px) {
 
 				#main > .post {
-					padding: 6rem 4rem 4rem 4rem ;
+					padding: 5rem 4rem 2rem 4rem ;
 				}
 
 			}
@@ -4018,7 +4019,7 @@ input, select, textarea {
 			@media screen and (max-width: 736px) {
 
 				#main > .post {
-					padding: 4rem 2rem 2rem 2rem ;
+					padding: 2rem 2rem 2rem 2rem ;
 				}
 
 					#main > .post header.major > .date {
@@ -4027,9 +4028,9 @@ input, select, textarea {
 					}
 
 					#main > .post header.major > h1, #main > .post header.major h2 {
-						font-size: 2.5rem;
+						font-size: 2.0rem;
 						line-height: 1.2;
-						margin: 0 0 1.5rem 0;
+						margin: 0 0 0.5rem 0;
 					}
 
 			}
@@ -4068,7 +4069,7 @@ input, select, textarea {
 			}
 
 			#main > .posts > * {
-				padding: 4rem;
+				padding: 1rem;
 				width: 50%;
 			}
 
